@@ -61,5 +61,6 @@ module FullAdderTB();
         #5 a=1;b=1;c=0;
         #5 a=1;b=1;c=1;
         #5 $stop;
+        $finish;
     end
 endmodule

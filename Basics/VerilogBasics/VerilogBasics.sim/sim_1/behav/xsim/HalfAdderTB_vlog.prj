@@ -1,6 +1,6 @@
 # compile verilog/system verilog design source files
 verilog xil_defaultlib  \
-"../../../../VerilogBasics.srcs/sources_1/new/FullAdder_Gate_Behavioral.v" \
+"../../../../VerilogBasics.srcs/sources_1/new/HalfAdder_DataFlow.v" \
 
 # compile glbl module
 verilog xil_defaultlib "glbl.v"
