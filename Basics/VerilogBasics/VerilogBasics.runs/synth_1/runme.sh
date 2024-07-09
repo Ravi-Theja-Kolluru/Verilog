@@ -41,4 +41,4 @@ EAStep()
      fi
 }
 
-EAStep vivado -log FullAdderTB.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source FullAdderTB.tcl
+EAStep vivado -log HalfAdderTB.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source HalfAdderTB.tcl
